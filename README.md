@@ -1,4 +1,5 @@
 **Predicting Chances of Admission for Higher Studies Using ML Models**
+
 In the competitive landscape of higher education admissions, predicting the chances of a candidate being admitted can be crucial for both applicants and institutions. Machine Learning (ML) models can be employed to predict these chances based on various factors that play significant roles in the admission process. Here, we describe an ML-based approach to predict the chances of admission using the following features:
 
 GRE Scores (Graduate Record Examination):
