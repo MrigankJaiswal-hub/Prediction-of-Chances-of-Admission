@@ -1,4 +1,4 @@
-**Predicting Chances of Admission for Higher Studies Using ML Models**
+
 ### Predicting Chances of Admission for Higher Studies Using ML Models
 
 The prediction of admission chances for higher studies can be effectively performed using machine learning (ML) models. These models leverage various academic and personal criteria to predict the likelihood of an applicant's admission. The key features considered in this prediction are:
